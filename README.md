@@ -1,2 +1,4 @@
-# Dio-curso
-Dio Desafio 
+Este projeto foi desenvolvido durante o curso da DIO como um desafio prático para organizar e visualizar investimentos pessoais usando o Microsoft Excel. A planilha "Erick Invest" permite o controle detalhado de aplicações financeiras. Foram utilizados recursos como formatação condicional, validação de dados, fórmulas automáticas de cálculo de rendimento e tabelas dinâmicas para facilitar a análise. O objetivo do desafio foi aplicar habilidades de organização, automação e análise de dados, criando uma ferramenta simples, porém eficiente, para acompanhamento financeiro. Esse projeto reforça a importância do Excel como uma poderosa ferramenta de controle e visualização de dados no contexto da educação financeira.
+
+![image](https://github.com/user-attachments/assets/6da5e0c2-f1ff-426a-be15-dba732f1ee5b)
+
